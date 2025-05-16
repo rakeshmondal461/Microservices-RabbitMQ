@@ -1,0 +1,7 @@
+order-service/node_modules
+order-service/package-lock.json
+order-service/pnpm-lock.yaml
+
+user-service/node_modules
+user-service/package-lock.json
+user-service/pnpm-lock.yaml
