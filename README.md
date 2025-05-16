@@ -10,7 +10,7 @@
 
 ## Running RabbitMQ
 
-- Run the comaand from the root of the project:
+- Run the command from the root of the project:
 ```bash
 # Run Docker Conatiner
 docker-compose up --build
